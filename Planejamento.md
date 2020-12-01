@@ -8,7 +8,7 @@
 ## Depron:
 [**5 peças Depron 70cm x 100cm x 5mm**](https://produto.mercadolivre.com.br/MLB-1658393237-depron-5mm-5-plcs-c-100cm-x-68cm-placas-grandes-aeromodelo-_JM?matt_tool=51082743&matt_word=&matt_source=google&matt_campaign_id=6542508691&matt_ad_group_id=84209464731&matt_match_type=&matt_network=u&matt_device=c&matt_creative=385098919104&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=109650566&matt_product_id=MLB1658393237&matt_product_partition_id=321248239908&matt_target_id=pla-321248239908&gclid=Cj0KCQiAzZL-BRDnARIsAPCJs72rOh6gR6jU25qMCKGv3ao7MSusjCSZl_51gr8UWpVDZ7XTRRGhtG8aAhyREALw_wcB)
 
-## Conector em y:
+## Conector em Y:
 [**Conector em Y para servos**](https://produto.mercadolivre.com.br/MLB-918432354-extenso-para-servos-em-y-50cm-conectores-padro-futaba-jr-_JM?matt_tool=51082743&matt_word=&matt_source=google&matt_campaign_id=6542508691&matt_ad_group_id=84209464731&matt_match_type=&matt_network=u&matt_device=c&matt_creative=385098919104&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=276368505&matt_product_id=MLB918432354&matt_product_partition_id=321248239908&matt_target_id=pla-321248239908&gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGsjcUy_Rj9iYZ2Xk2ywY7nchefB2gWQFbTt5AbYkEdWndFW9NWM7mhoCQHcQAvD_BwE)
 
 ## Controlador de Velocidade:
@@ -21,10 +21,13 @@
 [**Linkagem Completa**](https://produto.mercadolivre.com.br/MLB-797720228-linkagem-completa-para-aeromodelos-de-1100mm-de-asa-_JM)
 
 ## Fita Filamentosa:
-[**Fita Filamentosa Polipropileno 25mm X 50mts**](https://produto.mercadolivre.com.br/MLB-1717477436-2xrls-fita-filamentosa-polipropileno-power-tape-25mm-x-50mts-_JM#position=1&type=item&tracking_id=58f57f47-3856-4e6e-a8cf-4446839eef8f)
+[**Fita Filamentosa Polipropileno 25mm X 50mts**](https://produto.mercadolivre.com.br/MLB-986018700-fita-adesiva-filamentosa-de-poliester-25mmx50m-muito-forte-_JM#position=2&type=item&tracking_id=5f51b743-c80e-4444-b556-362ec3a49f78)
 
 ## Fibra de Vidro:
 **Vareta Fibra De Vidro 2mm Por 2m**
 
 ## Velcro:
 **Velcro 50cm**
+
+## Total:
+**393,69**
